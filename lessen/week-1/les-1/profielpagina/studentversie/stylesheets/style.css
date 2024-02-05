@@ -45,6 +45,12 @@
     flex-direction: column;
 }
 
+.profile-content__eigenschappen {
+    display: flex;
+    flex-direction: column;
+
+}
+
 .profile-content__element--hidden-mobile {
     display: flex;
     flex-direction: column;
